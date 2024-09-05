@@ -11,7 +11,7 @@
 
    Откройте командную строку и выполните следующие команды:
    ```sh
-   git clone https://github.com/ваш-репозиторий/KinescopeTesting.git
+   git clone https://github.com/someclicker/KinescopeTesting.git
 
    cd KinescopeTesting
    ```
