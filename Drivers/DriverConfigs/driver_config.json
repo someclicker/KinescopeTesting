@@ -1,0 +1,6 @@
+{
+  "Headless": false,
+  "Args": [
+    "--start-maximized"
+  ]
+}
